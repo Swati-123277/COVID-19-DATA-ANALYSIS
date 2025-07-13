@@ -7,17 +7,17 @@ Objective:- explore the spread, impact, and vaccination trends of COVID-19 acros
              enabling a better understanding of its severity and management efforts.
 
 Key Tasks Performed:
-1. Analyzed the likelihood of death due to COVID-19 over time in India.
+*Analyzed the likelihood of death due to COVID-19 over time in India.
 
-2. Calculated the percentage of total deaths and positive cases compared to the population for India and globally.
+*Calculated the percentage of total deaths and positive cases compared to the population for India and globally.
    
-3. Identified countries and continents with the highest death rates and infection rates.
+*Identified countries and continents with the highest death rates and infection rates.
 
-4. Combined vaccination and death datasets to understand elderly population (65+) trends and vaccination distribution.
+*Combined vaccination and death datasets to understand elderly population (65+) trends and vaccination distribution.
 
-5. Ranked countries based on the number of fully vaccinated individuals.
+*Ranked countries based on the number of fully vaccinated individuals.
 
-6. Compared new daily cases against hospitalizations and ICU admissions (India).
+*Compared new daily cases against hospitalizations and ICU admissions (India).
 
 Insights Gained:
 
