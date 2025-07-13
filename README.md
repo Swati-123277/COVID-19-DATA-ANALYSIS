@@ -3,10 +3,11 @@
 This project focuses on extracting key insights from global COVID-19 data using advanced SQL queries. 
 The data comprises metrics such as total cases, deaths, hospitalizations, vaccinations, and demographic details for different countries and continents.
 
-Objective:- explore the spread, impact, and vaccination trends of COVID-19 across countries and continents,
+🎯 OBJECTIVE:- explore the spread, impact, and vaccination trends of COVID-19 across countries and continents,
              enabling a better understanding of its severity and management efforts.
 
-Key Tasks Performed:
+📊Key Tasks Performed:
+
 *Analyzed the likelihood of death due to COVID-19 over time in India.
 
 *Calculated the percentage of total deaths and positive cases compared to the population for India and globally.
@@ -19,7 +20,7 @@ Key Tasks Performed:
 
 *Compared new daily cases against hospitalizations and ICU admissions (India).
 
-Insights Gained:
+📌 Insights Gained:
 
 India’s death-to-case ratio and positive case ratio give insight into pandemic severity.
 
